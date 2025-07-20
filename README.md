@@ -1,1 +1,3 @@
-https://github.com/sohelmohammed0/DailyNotes/tree/main/Linux
+
+
+[RESOURCE]( https://github.com/sohelmohammed0/DailyNotes/tree/main/Linux)   
