@@ -39,13 +39,13 @@ Linux uses a hierarchical **tree-like directory structure**, starting from the r
 ---
 
 ## 🚀 DevOps Pro Tips
-
+```
 - Use `/opt` or `/usr/local/bin` for custom apps and scripts in Docker images.
 - Monitor logs in `/var/log` during server provisioning or debugging.
 - Leverage `/etc` for automation tasks in Ansible, Chef, or Puppet.
 - Mount external volumes at `/mnt` or `/media` in cloud environments (e.g., AWS, GCP, Azure).
 - Inspect `/proc` and `/sys` for real-time kernel and system information during incident response.
-
+```
 ---
 
 ## 📌 Keywords
